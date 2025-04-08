@@ -143,6 +143,7 @@ nav button {
 }
 #logo img{
     width: 150px;
+    cursor: pointer;
 }
 .margin-top-20 {
     margin-top: 20px;

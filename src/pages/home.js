@@ -4,7 +4,7 @@ export default function renderHome() {
         <div class="site-width">
             <h1>Welcome to Meman's Grill</h1>
             <p>Experience the best dining in town!</p>
-            <button class="btn margin-top-20">Our Menu</button>
+            <button class="btn margin-top-20" data-link='menu'>Our Menu</button>
         </div>
     </div>`;
 }
